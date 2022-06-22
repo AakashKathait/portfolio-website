@@ -60,23 +60,24 @@ function Contact(methods) {
         method="POST"
         className="contact-form"
       >
+        <input type="hidden" name="_captcha" value="false" />
         <input
           type="hidden"
           name="_subject"
           value="Message from Portfolio website"
         />
-        <input type="hidden" name="_template" value="table" />
+        <input type="hidden" name="_template" value="basic" />
         <input
           type="hidden"
           name="_next"
           value="https://webcoords.com/thankyou"
         />
         <label htmlFor="name">Name*</label>
-        <input required id="name" type={"text"} />
+        <input required id="name" name="name" type={"text"} />
         <label htmlFor="email">Email*</label>
-        <input required id="email" type={"email"} />
+        <input required id="email" name="email" type={"email"} />
         <label htmlFor="message">Message*</label>
-        <input required id="message" type={"text"} />
+        <input required id="message" name="message" type={"text"} />
         <div className="button-container">
           <button type="submit">Send</button>
         </div>
