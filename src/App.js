@@ -10,7 +10,9 @@ function App() {
   //show and hide navbar on scroll
   let lastScroll = window.scrollY;
   window.addEventListener("scroll", () => {
-    if (lastScroll < window.scrollY) {
+    if (window.scrollY < 50) {
+      setShowNav(true);
+    } else if (lastScroll < window.scrollY) {
       setShowNav(false);
     } else {
       setShowNav(true);
