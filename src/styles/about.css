@@ -1,0 +1,51 @@
+::-webkit-scrollbar {
+display: none;}
+
+.about-container {
+  width: 100%;
+  color: #051c20;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Smooch Sans", sans-serif;
+}
+
+.img-container img {
+  mix-blend-mode: multiply;
+  max-width: 400px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 2rem 0;
+  padding: 0;
+}
+
+.about {
+  text-align: left;
+  width: 90%;
+  font-size: 2rem;
+  letter-spacing: 1px;
+}
+
+.inline-contact {
+  text-decoration: underline;
+  color: #764AF1;
+}
+
+@media only screen and (max-width: 700px) {
+
+  .about {
+    font-size: 1.5rem;
+    width: 85%;
+    font-weight: 700;
+  }
+
+  .about p {
+    line-height: 35px;
+  }
+
+}

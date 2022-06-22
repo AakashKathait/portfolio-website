@@ -1,0 +1,36 @@
+.thankyou {
+  text-align: center;
+  padding: 2rem;
+  font-family: "Smooch Sans", sans-serif;
+  font-size: 2rem;
+}
+
+.back-button {
+    background-color: #051c20;
+    color: #eeeeee;
+    padding: 1rem;
+    border-radius: 2px;
+    font-size: 1.5rem;
+    border: 2px solid #051c20;
+    transition: all 0.3s ease ;
+}
+
+.back-button:hover {
+    background-color: #eeeeee;
+    color: #051c20;
+}
+
+@media only screen and (max-width: 700px) {
+
+    .thankyou {
+        text-align: center;
+        padding: 2rem;
+        font-family: "Smooch Sans", sans-serif;
+        font-size: 1rem;
+      }
+
+     .back-button {
+        padding: 0.6rem ;
+     } 
+
+}
