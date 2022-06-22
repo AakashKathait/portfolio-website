@@ -28,17 +28,7 @@ function AnimateRoutes(setCurrentPage) {
     <AnimatePresence exitBeforeEnter>
       <Routes location={location} key={location.pathname}>
         <Route
-          path="/"
-          element={
-            <Main
-              pageTransition={pageTransition}
-              pageVariants={pageVariants}
-              setCurrentPage={setCurrentPage}
-            />
-          }
-        />
-        <Route
-          path="https://webcoords.com/about"
+          path="about"
           element={
             <About
               pageTransition={pageTransition}
@@ -48,7 +38,7 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="https://webcoords.com/projects"
+          path="projects"
           element={
             <Projects
               pageTransition={pageTransition}
@@ -57,7 +47,7 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="https://webcoords.com/contact"
+          path="contact"
           element={
             <Contact
               pageTransition={pageTransition}
@@ -66,11 +56,21 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="https://webcoords.com/thankyou"
+          path="thankyou"
           element={
             <Thankyou
               pageTransition={pageTransition}
               pageVariants={pageVariants}
+            />
+          }
+        />
+        <Route
+          path="/"
+          element={
+            <Main
+              pageTransition={pageTransition}
+              pageVariants={pageVariants}
+              setCurrentPage={setCurrentPage}
             />
           }
         />
