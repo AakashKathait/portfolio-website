@@ -7,7 +7,7 @@ import AnimatedRoutes from "./components/AnimatedRoutes";
 function App() {
   const [showNav, setShowNav] = useState(true);
   const [currentPage, setCurrentPage] = useState("");
-  const baseURL = process.env.PUBLIC_URL;
+  const baseURL = window.location.href;
   console.log(baseURL)
   //show and hide navbar on scroll
   let lastScroll = window.scrollY;
