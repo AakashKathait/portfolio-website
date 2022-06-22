@@ -28,7 +28,7 @@ function AnimateRoutes(setCurrentPage) {
     <AnimatePresence exitBeforeEnter>
       <Routes location={location} key={location.pathname}>
         <Route
-          path="about"
+          path="/about"
           element={
             <About
               pageTransition={pageTransition}
@@ -38,7 +38,7 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="projects"
+          path="/projects"
           element={
             <Projects
               pageTransition={pageTransition}
@@ -47,7 +47,7 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="contact"
+          path="/contact"
           element={
             <Contact
               pageTransition={pageTransition}
@@ -56,7 +56,7 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="thankyou"
+          path="/thankyou"
           element={
             <Thankyou
               pageTransition={pageTransition}
