@@ -38,7 +38,7 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="about"
+          path="https://webcoords.com/about"
           element={
             <About
               pageTransition={pageTransition}
@@ -48,7 +48,7 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="projects"
+          path="https://webcoords.com/projects"
           element={
             <Projects
               pageTransition={pageTransition}
@@ -57,7 +57,7 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="contact"
+          path="https://webcoords.com/contact"
           element={
             <Contact
               pageTransition={pageTransition}
@@ -66,7 +66,7 @@ function AnimateRoutes(setCurrentPage) {
           }
         />
         <Route
-          path="thankyou"
+          path="https://webcoords.com/thankyou"
           element={
             <Thankyou
               pageTransition={pageTransition}
