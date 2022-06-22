@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.b561da06.css",
-    "main.js": "./static/js/main.6e999162.js",
-    "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
-    "static/media/HopAndCo.png": "./static/media/HopAndCo.1f2086f0a8b66d36d2af.png",
-    "static/media/WeatherApp.png": "./static/media/WeatherApp.9d111a65653fbe3aa3a7.png",
-    "static/media/StudentList.png": "./static/media/StudentList.544b478d8e3fabeafd84.png",
-    "static/media/WordScrambler.png": "./static/media/WordScrambler.944262c8f0a91c84b52d.png",
-    "static/media/TodoList.png": "./static/media/TodoList.c42c6b107cc5def4398d.png",
-    "static/media/TicTacToe.png": "./static/media/TicTacToe.556b402af77f35d39472.png",
-    "static/media/character 18.svg": "./static/media/character 18.1cb406861b978632f964319c52bdf38b.svg",
-    "static/media/instagram.svg": "./static/media/instagram.e9ba98a4d91e4a859272c0d78841845a.svg",
-    "static/media/linkedin.svg": "./static/media/linkedin.38e09fc1c69a6268653c055d4a05c33e.svg",
-    "index.html": "./index.html",
-    "static/media/github copy.svg": "./static/media/github copy.170c8bd2a5c3cefd8f93c21705b3e6e5.svg",
-    "static/media/github.svg": "./static/media/github.1b7853006d7c64ab77dd1da8fff22f0b.svg",
-    "main.b561da06.css.map": "./static/css/main.b561da06.css.map",
-    "main.6e999162.js.map": "./static/js/main.6e999162.js.map",
-    "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.b561da06.css",
+    "main.js": "/static/js/main.9015fb03.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/HopAndCo.png": "/static/media/HopAndCo.1f2086f0a8b66d36d2af.png",
+    "static/media/WeatherApp.png": "/static/media/WeatherApp.9d111a65653fbe3aa3a7.png",
+    "static/media/StudentList.png": "/static/media/StudentList.544b478d8e3fabeafd84.png",
+    "static/media/WordScrambler.png": "/static/media/WordScrambler.944262c8f0a91c84b52d.png",
+    "static/media/TodoList.png": "/static/media/TodoList.c42c6b107cc5def4398d.png",
+    "static/media/TicTacToe.png": "/static/media/TicTacToe.556b402af77f35d39472.png",
+    "static/media/character 18.svg": "/static/media/character 18.1cb406861b978632f964319c52bdf38b.svg",
+    "static/media/instagram.svg": "/static/media/instagram.e9ba98a4d91e4a859272c0d78841845a.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.38e09fc1c69a6268653c055d4a05c33e.svg",
+    "index.html": "/index.html",
+    "static/media/github copy.svg": "/static/media/github copy.170c8bd2a5c3cefd8f93c21705b3e6e5.svg",
+    "static/media/github.svg": "/static/media/github.1b7853006d7c64ab77dd1da8fff22f0b.svg",
+    "main.b561da06.css.map": "/static/css/main.b561da06.css.map",
+    "main.9015fb03.js.map": "/static/js/main.9015fb03.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b561da06.css",
-    "static/js/main.6e999162.js"
+    "static/js/main.9015fb03.js"
   ]
 }
