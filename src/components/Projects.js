@@ -44,7 +44,7 @@ function Projects(methods) {
       img: todoListImg,
       link: "https://aakashkathait.github.io/Todo-List/",
       description:
-        "The legendary: 'Todo-List', that every junior developer has in their portfolio.",
+        "The Infamous: 'Todo-List'",
     },
 
     {
