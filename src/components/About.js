@@ -69,7 +69,7 @@ function About(methods) {
           how websites were made and learning all that was so mind-blowing to me
           that I never stopped, since then I've been learning new things every
           day and improving my skills. And I always thought that it was really
-          cool to be able to be code (thanks to movies like "The Social
+          cool to be able to code (thanks to movies like "The Social
           Network") but after practicing it for so many hours and realizing how
           powerful it is, I have developed genuine respect and love for the job.
           <br />
