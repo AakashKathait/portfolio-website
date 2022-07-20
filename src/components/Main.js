@@ -32,13 +32,13 @@ function Main(methods) {
           </p>
         </div>
         <div className="bottom">
-          <p>Click here to read more about me.</p>
+          <p>Check out my projects here.</p>
           <Link
             className="contact-button"
-            onClick={() => setCurrentPage("/about")}
-            to={"/about"}
+            onClick={() => setCurrentPage("/projects")}
+            to={"/projects"}
           >
-            More about me 🖱
+            Click Here 🖱
           </Link>
         </div>
       </div>
