@@ -37,14 +37,13 @@ function Projects(methods) {
       img: ticTacToeImg,
       link: "https://aakashkathait.github.io/Tic-Tac-Toe/",
       description:
-        "Game of Tic-Tac-Toe where you can play vs computer which choses random spots or play vs another player.",
+        "Game of Tic-Tac-Toe where you can play vs computer or vs another player (you can choose either easy mode that picks chooses random spots or hard mode which is impossible to beat when playing against computer) .",
     },
     {
       name: "Todo-List",
       img: todoListImg,
       link: "https://aakashkathait.github.io/Todo-List/",
-      description:
-        "The Infamous: 'Todo-List'",
+      description: "The Infamous: 'Todo-List'",
     },
 
     {
