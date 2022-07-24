@@ -37,7 +37,7 @@ function Projects(methods) {
       img: ticTacToeImg,
       link: "https://aakashkathait.github.io/Tic-Tac-Toe/",
       description:
-        "Game of Tic-Tac-Toe where you can play vs computer or vs another player (you can choose either easy mode that picks random spots or hard mode which is impossible to beat when playing against computer) .",
+        "Game of Tic-Tac-Toe where you can play vs computer or vs another player (you can choose either easy mode which is easier (No Shit!!) or hard mode which is impossible to beat when playing against computer).",
     },
     {
       name: "Todo-List",
