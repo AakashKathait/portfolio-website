@@ -33,20 +33,19 @@ function Projects(methods) {
         "Fetches student data from API and displays on the screen. Can also add tags to students and search them by their names or tags",
     },
     {
-      name: "Word Scrambler Game",
-      img: WordScramblerImg,
-      link: "https://aakashkathait.github.io/word-scrambler-game/",
-      description:
-        "Game where a scrambeled sentence is displayed and you have to guess it, guessing 10 sentences wins you the game. *Not Responsive to mobile layout*",
-    },
-    {
       name: "Tic-Tac-Toe",
       img: ticTacToeImg,
       link: "https://aakashkathait.github.io/Tic-Tac-Toe/",
       description:
         "Game of Tic-Tac-Toe where you can play vs computer or vs another player (you can choose either easy mode which is easier (No Shit!!) or hard mode which is impossible to beat when playing against computer).",
     },
-
+    {
+      name: "Word Scrambler Game",
+      img: WordScramblerImg,
+      link: "https://aakashkathait.github.io/word-scrambler-game/",
+      description:
+        "Game where a scrambeled sentence is displayed and you have to guess it, guessing 10 sentences wins you the game. *Not Responsive to mobile layout*",
+    },
     {
       name: "Hop and Co",
       img: hopAndCoImg,
