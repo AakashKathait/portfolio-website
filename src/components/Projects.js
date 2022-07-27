@@ -2,7 +2,7 @@ import "../styles/projects.css";
 import weatherAppImg from "../assets/project-images/WeatherApp.png";
 import hopAndCoImg from "../assets/project-images/HopAndCo.png";
 import ticTacToeImg from "../assets/project-images/TicTacToe.png";
-import todoListImg from "../assets/project-images/TodoList.png";
+import blogAppImg from "../assets/project-images/BlogApp.png";
 import studentListImg from "../assets/project-images/StudentList.png";
 import WordScramblerImg from "../assets/project-images/WordScrambler.png";
 import { motion } from "framer-motion";
@@ -20,8 +20,8 @@ function Projects(methods) {
   const projects = [
     {
       name: "Blog App",
-      img: todoListImg,
-      link: "https://aakashkathait.github.io/Blog-App/",
+      img: blogAppImg,
+      link: "https://arrayblogapp.herokuapp.com/",
       description:
         "A fullstack Blog application with REST APIs, authentication, and cloud database storage",
     },
