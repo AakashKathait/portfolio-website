@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.b561da06.css",
-    "main.js": "/static/js/main.fce190c9.js",
+    "main.js": "/static/js/main.bde65c75.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/HopAndCo.png": "/static/media/HopAndCo.1f2086f0a8b66d36d2af.png",
     "static/media/WeatherApp.png": "/static/media/WeatherApp.9d111a65653fbe3aa3a7.png",
-    "static/media/BlogApp.png": "/static/media/BlogApp.63b7fa60514e06b5cda6.png",
+    "static/media/BlogApp.png": "/static/media/BlogApp.f2ae492db3e8849388ef.png",
     "static/media/StudentList.png": "/static/media/StudentList.544b478d8e3fabeafd84.png",
     "static/media/WordScrambler.png": "/static/media/WordScrambler.944262c8f0a91c84b52d.png",
     "static/media/TicTacToe.png": "/static/media/TicTacToe.556b402af77f35d39472.png",
@@ -16,11 +16,11 @@
     "static/media/github copy.svg": "/static/media/github copy.170c8bd2a5c3cefd8f93c21705b3e6e5.svg",
     "static/media/github.svg": "/static/media/github.1b7853006d7c64ab77dd1da8fff22f0b.svg",
     "main.b561da06.css.map": "/static/css/main.b561da06.css.map",
-    "main.fce190c9.js.map": "/static/js/main.fce190c9.js.map",
+    "main.bde65c75.js.map": "/static/js/main.bde65c75.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b561da06.css",
-    "static/js/main.fce190c9.js"
+    "static/js/main.bde65c75.js"
   ]
 }
