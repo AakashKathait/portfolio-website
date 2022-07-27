@@ -19,6 +19,13 @@ function Projects(methods) {
 
   const projects = [
     {
+      name: "Blog App",
+      img: todoListImg,
+      link: "https://aakashkathait.github.io/Blog-App/",
+      description:
+        "A fullstack Blog application with REST APIs, authentication, and cloud database storage",
+    },
+    {
       name: "Student Grades List",
       img: studentListImg,
       link: "https://aakashkathait.github.io/students-list-app/",
@@ -38,12 +45,6 @@ function Projects(methods) {
       link: "https://aakashkathait.github.io/Tic-Tac-Toe/",
       description:
         "Game of Tic-Tac-Toe where you can play vs computer or vs another player (you can choose either easy mode which is easier (No Shit!!) or hard mode which is impossible to beat when playing against computer).",
-    },
-    {
-      name: "Todo-List",
-      img: todoListImg,
-      link: "https://aakashkathait.github.io/Todo-List/",
-      description: "The Infamous: 'Todo-List'",
     },
 
     {

@@ -24,7 +24,7 @@ function Main(methods) {
         <div className="top">
           <h1>Hi,</h1>
           <p>
-            I am Aakash Kathait&#x1F47D;, <br /> an enthusiastic frontend
+            I am Aakash Kathait&#x1F47D;, <br /> an enthusiastic fullstack
             developer.
           </p>
           <p>
