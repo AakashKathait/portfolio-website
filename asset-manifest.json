@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b561da06.css",
-    "main.js": "/static/js/main.b97cf194.js",
+    "main.js": "/static/js/main.0e7f791d.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/HopAndCo.png": "/static/media/HopAndCo.1f2086f0a8b66d36d2af.png",
     "static/media/WeatherApp.png": "/static/media/WeatherApp.9d111a65653fbe3aa3a7.png",
@@ -15,11 +15,11 @@
     "static/media/github copy.svg": "/static/media/github copy.170c8bd2a5c3cefd8f93c21705b3e6e5.svg",
     "static/media/github.svg": "/static/media/github.1b7853006d7c64ab77dd1da8fff22f0b.svg",
     "main.b561da06.css.map": "/static/css/main.b561da06.css.map",
-    "main.b97cf194.js.map": "/static/js/main.b97cf194.js.map",
+    "main.0e7f791d.js.map": "/static/js/main.0e7f791d.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b561da06.css",
-    "static/js/main.b97cf194.js"
+    "static/js/main.0e7f791d.js"
   ]
 }
