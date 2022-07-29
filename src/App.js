@@ -17,7 +17,7 @@ function App() {
     } else {
       setShowNav(true);
     }
-    lastScroll = window.scrollY + 20;
+    lastScroll = window.scrollY + 10;
   });
   return (
     <div className="App">
