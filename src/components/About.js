@@ -44,14 +44,12 @@ function About(methods) {
           too outgoing I fulfil this desire of consuming new and
           thought-provoking dialogue through podcasts like the JRE&#x1f410; or
           StarTalk&#127756;, I'm always looking for things that could blow my
-          mind and most of the time those are new ideas(new to me) or different
-          views (different than mine) or facts nobody ever taught me. I also
-          like learning new things and mastering them to the best of my ability,
-          and that's how got into coding, I'll talk more about that further in
-          this section. Seeing how much I can push myself in things that I like
-          to do kinda gives me meaning, and there are times when I don't want to
-          do anything but times like those are what fuel me to do even more
-          because times like those make me feel stagnant.
+          mind and most of the time those are new ideas or different views or
+          facts that I never knew. I also like learning new things and
+          mastering them to the best of my ability, and that's how got into
+          coding, I'll talk more about that further in this section. Seeing how
+          much I can push myself in things that I like to do kinda gives me
+          meaning.
           <br />
           <br />
           <b>
