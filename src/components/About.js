@@ -36,19 +36,19 @@ function About(methods) {
           living in Vancouver, Canada.
           <br />
           <br />
-          I would describe myself as a curious person who is very open and tries
-          to see things without a bias and like to hear other people's
-          perspectives on things. I'm definitely not the guy who would start the
-          conversation with a stranger but I do love it when I get to talk to
-          new people and hear their ideas, views and stories, and since I'm not
-          too outgoing I fulfil this desire of consuming new and
-          thought-provoking dialogue through podcasts like the JRE&#x1f410; or
-          StarTalk&#127756;, I'm always looking for things that could blow my
-          mind and most of the time those are new ideas or different views or
-          facts that I never knew. I also like learning new things and mastering
-          them to the best of my ability, and that's how got into coding, I'll
-          talk more about that further in this section. Seeing how much I can
-          push myself in things that I like to do kinda gives me meaning.
+          I would describe myself as a curious person who tries to see things
+          without a bias and like to hear other people's perspectives on things.
+          Although I'm not the guy who would start a conversation with a
+          stranger but I do love it when I get to talk to new people and hear
+          their ideas, views and stories, and since I'm not too outgoing I
+          fulfil this desire of consuming new and thought-provoking dialogue
+          through podcasts like the JRE&#x1f410; or StarTalk&#127756;, I'm
+          always looking for things that could blow my mind and most of the time
+          those are new ideas or different views or facts that I never knew. I
+          also like learning new things and mastering them to the best of my
+          ability, and that's how got into coding, I'll talk more about that
+          further in this section. Seeing how much I can push myself in things
+          that I like to do kinda gives me meaning.
           <br />
           <br />
           <b>
