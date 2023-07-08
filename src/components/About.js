@@ -90,7 +90,7 @@ function About(methods) {
           <br />
           for my personal interests, I like learning stuff from Youtube like
           music theory on my guitar, solving rubix cubes and what not, I'm also
-          a big gaming nerd (RDR2 - my all time fav), and I love listening to
+          a big gaming nerd (RDR2- my all time fav), and I love listening to
           music and hope to be a part time musician one day. (leave some song
           recommendations in{" "}
           <Link
