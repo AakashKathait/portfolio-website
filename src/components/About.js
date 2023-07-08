@@ -38,21 +38,16 @@ function About(methods) {
           <br />
           I would describe myself as a curious person who tries to see things
           without a bias and like to hear other people's perspectives on things.
-          Although I'm not the guy who would start a conversation with a
-          stranger but I do love it when I get to talk to new people and hear
-          their ideas, views and stories, and since I'm not too outgoing I
-          fulfil this desire of consuming new and thought-provoking dialogue
-          through podcasts like the JRE&#x1f410; or StarTalk&#127756;, I'm
-          always looking for things that could blow my mind and most of the time
-          those are new ideas or different views or facts that I never knew. I
-          also like learning new things and mastering them to the best of my
-          ability, and that's how got into coding, I'll talk more about that
-          further in this section. Seeing how much I can push myself in things
-          that I like to do kinda gives me meaning.
+          Although I'm not the guy who would start a conversation, but I do love
+          it when I get to talk to new people and hear their ideas, and since
+          I'm not too outgoing I fulfil this desire of consuming new and
+          thought-provoking dialogue through podcasts like the JRE&#x1f410; or
+          StarTalk&#127756;.I also like learning new things and mastering them
+          to the best of my ability, and that's how got into coding.
           <br />
           <br />
           <b>
-            <i>So, how I got into coding...</i>
+            <i>How I got into coding...</i>
           </b>
           <br />
           <br />
@@ -82,21 +77,22 @@ function About(methods) {
           <br />
           Before that, I had never even thought about how the Internet works or
           how websites were made and learning all that was so mind-blowing to me
-          that I never stopped, since then I've been learning new things every
-          day and improving my skills. And I always thought that it was really
-          cool to be able to code (thanks to movies like "The Social Network")
-          but after practicing it for so many hours and realizing how powerful
-          it is, I have developed genuine respect and love for the job.
+          that I never stopped, since then I've been learning and making cool
+          stuff to improving my skills. I always thought that it was really cool
+          to be able to code (thanks to movies like "The Social Network") but
+          after practicing it for so many hours and realizing how powerful it
+          is, I have developed genuine respect and love for the job.
           <br />
           <br />
-          Other than that, I plan to get into the industry and grow my skills
-          even further, by learning new technologies and best practices.
+          Other than that, I plan to get into the tech industry to be a part of
+          something cool and have a job that I love.
           <br />
           <br />
-          for my personal interests, as I said earlier I like learning random
-          new things from Youtube every once in a while, I'm also a big gaming
-          nerd, and I explore new music in my free time and listen to it when
-          I'm working. (you can leave some song recommendations in{" "}
+          for my personal interests, I like learning stuff from Youtube like
+          music theory on my guitar, solving rubix cubes and what not, I'm also
+          a big gaming nerd (RDR2 - my all time fav), and I love listening to
+          music and hope to be a part time musician one day. (leave some song
+          recommendations in{" "}
           <Link
             className="inline-contact"
             to={"/contact"}
