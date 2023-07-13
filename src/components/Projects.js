@@ -21,7 +21,7 @@ function Projects(methods) {
     {
       name: "Blog App",
       img: blogAppImg,
-      link: "https://arrayblogapp.herokuapp.com/",
+      link: "https://blog-application-n66p.onrender.com",
       description:
         "A fullstack Blog application with REST APIs, authentication, and cloud database storage",
     },
